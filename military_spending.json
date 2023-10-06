@@ -208,7 +208,7 @@
           "y": {
             "field": "value",
             "type": "quantitative",
-            "axis": {"title": "Military Spending Per GDP (%)", "format": ".0%"}
+            "axis": {"title": "Military Spending Per GDP", "format": ".0%"}
           }
           }
         },
@@ -227,7 +227,7 @@
           "y": {
             "field": "value",
             "type": "quantitative",
-            "axis": {"title": "Military Spending Per GDP (%)", "format": ".0%"}
+            "axis": {"title": "Military Spending Per GDP", "format": ".0%"}
           },
           "color": {            
             "field": "Country",
@@ -276,7 +276,7 @@
           "y": {
             "field": "value",
             "type": "quantitative",
-            "axis": {"title": "Military Spending Per GDP (%)", "format": ".0%"}
+            "axis": {"title": "Military Spending Per GDP", "format": ".0%"}
           }
           }
         }
@@ -290,7 +290,7 @@
       "y": {
         "field": "value",
         "type": "quantitative",
-        "axis": {"title": "Military Spending Per GDP (%)", "format": ".0%"}
+        "axis": {"title": "Military Spending Per GDP", "format": ".0%"}
       },
       "tooltip": [
         {
