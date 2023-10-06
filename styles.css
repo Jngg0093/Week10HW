@@ -10,6 +10,10 @@ body *{
   body {
     background-color: lightgray;
   }
+
+  bodytext {
+    padding: 15px;
+  }
   
   .page {
     width: 1200px;
