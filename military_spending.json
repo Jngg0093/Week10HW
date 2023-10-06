@@ -71,7 +71,13 @@
             "scale": {
                 "type": "threshold",
                 "domain": [0.01, 0.02, 0.03, 0.04, 0.05, 0.1],
-                "range":["#edf8fb", "#ccece6", "#99d8c9", "#66c2a4", "#41ae76", "#238b45", "#005824"]
+                "range":["#fef0d9",
+                "#fdd49e",
+                "#fdbb84",
+                "#fc8d59",
+                "#ef6548",
+                "#d7301f",
+                "#990000"]
               },
             "legend": {
                 "title": "Spend (% of GDP)",
@@ -143,7 +149,8 @@
           },
           "layer":[{
             "mark": {
-              "type": "circle"
+              "type": "circle",
+              "size": 50
           }
           },
           {"mark": {
@@ -151,7 +158,7 @@
           "align": "left",
           "baseline": "middle",
           "fontSize": 15,
-          "fontWeight": "bold",
+          "fontWeight": "bolder",
           "dy": -10
           }}]
         }
